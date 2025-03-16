@@ -1,3 +1,6 @@
+-- LeetCode Problem: Find Customer Referee
+-- https://leetcode.com/problems/find-customer-referee/?envType=study-plan-v2&envId=top-sql-50
+
 SELECT name
 FROM Customer
 WHERE referee_id != 2
